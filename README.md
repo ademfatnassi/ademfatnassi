@@ -1,4 +1,6 @@
-![github header image](github-header-image.png)
+<p align="center">
+<img src="github-header-image.png" alt="github header image" />
+<p>
 
 <h1 align="center">Hi there 👋, I'm Adem Fatnassi</h1>  
 <h3 align="center">I'm a software developer. 
