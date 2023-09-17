@@ -1,4 +1,4 @@
-![[github-header-image.png]]
+![github header image](github-header-image.png)
 
 <h1 align="center">Hi there 👋, I'm Adem Fatnassi</h1>  
 <h3 align="center">I'm a software developer. 
