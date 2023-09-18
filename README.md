@@ -3,16 +3,8 @@
 <p>
 
 <h1 align="center">Hi there 👋, I'm Adem Fatnassi</h1>  
-<h3 align="center">I'm a software developer. 
 
-I create user-friendly applications and tackle complex challenges. 
-
-My passion lies in keeping up with the latest technology trends</h3>  
-  
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademfatnassi" alt="ademfatnassi" /></a> </p>  
-  
-<p align="left"> <a href="https://twitter.com/ademfatnassi_" target="blank"><img src="https://img.shields.io/twitter/follow/ademfatnassi_?logo=twitter&style=for-the-badge" alt="ademfatnassi_" /></a> </p>  
+I'm a software developer. I create user-friendly applications and tackle complex challenges. My passion lies in keeping up with the latest technology trends
   
 - 🔭 I’m currently working on **Next.js Project**  
   
@@ -24,7 +16,11 @@ My passion lies in keeping up with the latest technology trends</h3>
   
 - 📫 How to reach me **fatnassiadem99@gmail.com**  
   
-- 📄 Know about my experiences [https://ademfatnassi.github.io/](https://ademfatnassi.github.io/)  
+- 📄 Know about my experiences [https://ademfatnassi.github.io/](https://ademfatnassi.github.io/)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademfatnassi" alt="ademfatnassi" /></a> </p>  
+  
+<p align="left"> <a href="https://twitter.com/ademfatnassi_" target="blank"><img src="https://img.shields.io/twitter/follow/ademfatnassi_?logo=twitter&style=for-the-badge" alt="ademfatnassi_" /></a> </p>  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
