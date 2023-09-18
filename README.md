@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Adem Fatnassi</h1>  
 
-I'm a software developer. I create user-friendly applications and tackle complex challenges. My passion lies in keeping up with the latest technology trends
+Hi there 👋,  I'm Adem Fatnassi software developer. I create user-friendly applications and tackle complex challenges. My passion lies in keeping up with the latest technology trends
   
 - 🔭 I’m currently working on **Next.js Project**  
   
