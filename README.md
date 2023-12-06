@@ -3,11 +3,7 @@
 <p>
 
 Hi there 👋,  I'm Adem Fatnassi software developer. I create user-friendly applications and tackle complex challenges. My passion lies in keeping up with the latest technology trends
-  
-- 🔭 I’m currently working on **Parkito**  
-  
-- 🌱 I’m currently learning **Next.js, Redux ToolKit**  
-  
+   
 - 👨‍💻 All of my projects are available at [https://ademfatnassi.github.io](https://ademfatnassi.github.io)  
   
 - 💬 Ask me about **Angular, Node.js, Express.js**  
