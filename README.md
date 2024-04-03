@@ -4,7 +4,7 @@
 
 Hi there 👋,  I'm Adem Fatnassi software developer. I create user-friendly applications and tackle complex challenges. My passion lies in keeping up with the latest technology trends
    
-- 💬 Ask me about **Angular, Node.js, Express.js**  
+- 💬 Ask me about **Angular, Node.js, Express.js, React.js, Nest.js**  
   
 - 📫 How to reach me **fatnassiadem99@gmail.com**  
   
