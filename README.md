@@ -6,7 +6,6 @@ Hi there 👋, I'm Adem Fatnassi software developer. I create user-friendly appl
 
 - 💬 Ask me about **Angular, Node.js, Express.js, React.js, Nest.js**
 - 📫 How to reach me **fatnassiadem99@gmail.com**
-- 📄 Know about my experiences [ademfatnassi.github.io](https://ademfatnassi.github.io/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademfatnassi" alt="ademfatnassi" /></a> </p>  
   
